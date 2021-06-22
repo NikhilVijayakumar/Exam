@@ -10,6 +10,11 @@ setup(name='Exam',
         'bert-extractive-summarizer',
         'nltk',
         'pdfminer',
-        'pywsd'
+        'pywsd',
+        'summarizer',
+          'flashtext',
+          'sentencepiece',
+          'torchvision',
+          'wn==0.0.23'
     ]
       )
